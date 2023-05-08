@@ -1,0 +1,18 @@
+h1{
+    text-shadow: 5px 5px 5px blueviolet}
+label{
+color: blue;}
+body{
+    width: 400px;
+    border: 2px solid green;
+    box-shadow: 5px 5px 5px teal;
+    background-color: white;}
+    p{
+        color: burlywood; }
+    input{
+        color: green;  }
+    div{
+        background-color: white;
+        display: inline; }
+    input{ background-color: yellowgreen }
+    
